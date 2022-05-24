@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) users!
+# And welcome to my GitHub page
 
-<!--
-**Aloneq6996/Aloneq6996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+### I am a novice programmer which is intrested in game and backend programming. 
 
-Here are some ideas to get you started:
+## Specialization
+### I'm familiar with these programming languages:
+> #### 🎓 Node.JS - intermediate
+> #### 🎓 JavaScript - intermediate
+> #### 🎓 jQuery - beginner
+> #### 🎓 HTML5 - intermediate
+> #### 🎓 CSS - intermediate
+> #### 🎓 C# - beginner
+> #### 🎓 C++ - very basics
+> #### 🎓 Lua - intermediate
+> #### 🎓 Python - beginner
+> #### 🎓 SQL - intermediate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I can operate on
+> #### 💻 Linux
+> #### 💻 Windows
+
+### Languages
+> #### Polish - C2
+> #### English - B1+/B2
+> #### German - A2
+> #### Chinese - A1
+
+## Contact
+### Discord:
+> #### jestemkrulem420#4698
+### Instagram:
+> #### alonzeszkoly123

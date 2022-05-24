@@ -6,22 +6,29 @@
 
 ## Specialization
 ### I'm familiar with these programming languages:
-> #### 🎓 Node.JS - intermediate
+> #### 🎓 NodeJS - intermediate
 > #### 🎓 JavaScript - intermediate
 > #### 🎓 jQuery - beginner
 > #### 🎓 HTML5 - intermediate
 > #### 🎓 CSS - intermediate
 > #### 🎓 C# - beginner
-> #### 🎓 C++ - very basics
-> #### 🎓 Lua - intermediate
+> #### 🎓 C++ - novice
+> #### 🎓 Lua - experienced
 > #### 🎓 Python - beginner
 > #### 🎓 SQL - intermediate
+
+### Development Environments
+> #### Unity
+> #### Visual Studio Code
+> #### Visual Studio 2019
+> #### PyCharm
 
 ### I can operate on
 > #### 💻 Linux
 > #### 💻 Windows
 
-### Languages
+## Languages
+### I can speak and write in
 > #### Polish - C2
 > #### English - B1+/B2
 > #### German - A2

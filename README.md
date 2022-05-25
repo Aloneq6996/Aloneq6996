@@ -19,9 +19,6 @@
 
 ### Development Environments
 > #### Unity
-> #### Visual Studio Code
-> #### Visual Studio 2019
-> #### PyCharm
 
 ### I can operate on
 > #### 💻 Linux

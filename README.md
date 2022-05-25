@@ -17,9 +17,6 @@
 > #### 🎓 Python - beginner
 > #### 🎓 SQL - intermediate
 
-### Development Environments
-> #### Unity
-
 ### I can operate on
 > #### 💻 Linux
 > #### 💻 Windows

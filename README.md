@@ -1,4 +1,4 @@
-# Hi ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) users!
+# Hi ![github](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=black) users!
 # And welcome to my GitHub page
 
 ## About me

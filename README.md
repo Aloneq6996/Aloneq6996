@@ -23,7 +23,7 @@
 
 ## Languages
 ### I can speak and write in
-> #### Polish - C2
+> #### Polish - native language
 > #### English - B1+/B2
 > #### German - A2
 > #### Chinese - A1
@@ -32,4 +32,4 @@
 ### Discord:
 > #### jestemkrulem420#4698
 ### Instagram:
-> #### alonzeszkoly123
+> #### wiejaqq_

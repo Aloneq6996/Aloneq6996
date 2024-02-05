@@ -2,20 +2,19 @@
 # And welcome to my GitHub page
 
 ## About me
-### I am a novice programmer which is intrested in game and backend programming. 
+### I am a novice programmer which is intrested backend development. 
 
 ## Specialization
 ### I'm familiar with these programming languages:
 > #### 🎓 NodeJS - intermediate
 > #### 🎓 JavaScript - intermediate
 > #### 🎓 jQuery - beginner
-> #### 🎓 HTML5 - intermediate
-> #### 🎓 CSS - intermediate
 > #### 🎓 C# - beginner
 > #### 🎓 C++ - novice
 > #### 🎓 Lua - experienced
 > #### 🎓 Python - beginner
 > #### 🎓 SQL - intermediate
+> #### 🎓 Java - novice
 
 ### I can operate on
 > #### 💻 Linux

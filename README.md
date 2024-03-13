@@ -6,8 +6,8 @@
 
 ## Specialization
 ### I'm familiar with these programming languages:
-> #### 🎓 NodeJS - intermediate
-> #### 🎓 JavaScript - intermediate
+> #### 🎓 NodeJS - experienced
+> #### 🎓 JavaScript - experienced
 > #### 🎓 jQuery - beginner
 > #### 🎓 C# - beginner
 > #### 🎓 C++ - novice

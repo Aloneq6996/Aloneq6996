@@ -8,11 +8,8 @@
 ### I'm familiar with these programming languages:
 > #### 🎓 NodeJS - experienced
 > #### 🎓 JavaScript - experienced
-> #### 🎓 jQuery - beginner
-> #### 🎓 C# - beginner
-> #### 🎓 C++ - novice
+> #### 🎓 jQuery - intermediate
 > #### 🎓 Lua - experienced
-> #### 🎓 Python - beginner
 > #### 🎓 SQL - intermediate
 > #### 🎓 Java - novice
 
